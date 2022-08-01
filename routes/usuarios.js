@@ -1,6 +1,5 @@
 const { Router } = require('express')
 const { check } = require('express-validator')
-const router = Router()
 
 // const { validarJWT } = require('../middlewares/validar-jwt')
 // const { validarCampos } = require('../middlewares/validar-campos')
@@ -16,7 +15,6 @@ const {
     existeUsuarioPorId,
     esRoleValido
 } = require('../helpers/db-validators')
-
 const {
     usuariosGet,
     usuariosPost,
@@ -24,6 +22,8 @@ const {
     usuariosPatch,
     usuariosDelete
 } = require('../controllers/usuarios')
+
+const router = Router()
 
 router.get(
     '/',
