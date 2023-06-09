@@ -50,3 +50,8 @@ The following instructions will allow you to get a working copy of the project o
 ## Author ✒️
 
  - Romano, Rodrigo Ruben - Information systems engineer.
+
+## Contact 📋
+
+ - [LinkedIn](https://www.linkedin.com/in/rodrigo-ruben-romano/)
+ - [Mail](mailto:romano.rodrigo19@gmail.com)
