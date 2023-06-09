@@ -19,18 +19,18 @@ The following instructions will allow you to get a working copy of the project o
 ## Libraries used 🛠️
 
 - Express: To create express server.
-- Express-Validator: To handling validations.
+- Express-Validator: For handling validations.
 - Bcryptjs: To encrypt sensitive information.
-- Dotenv: To handling environment variables.
-- Google-Auth-Library: To google sign in.
-- Jsonwebtoken:  To handling jwt.
+- Dotenv: For handling environment variables.
+- Google-Auth-Library: For google sign in.
+- Jsonwebtoken:  For handling jwt.
 - Mongoose: To manage database.
 
 ## General considerations 📖
 
 ### Routes Api
 
-- GET - /auth/login and /auth/google: To user access, and get the jwt to enable you that can request private endpoints.
+- GET - /auth/login and /auth/google: For user access, and get the jwt to enable you that can request private endpoints.
 - GET - /buscar/:coleccion/:termino: To search anythings in colections that you want.
 - GET - /categorias/: To get all categories.
 - GET - /categorias/:id/: To get a specific category by id.
