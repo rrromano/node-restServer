@@ -46,3 +46,7 @@ The following instructions will allow you to get a working copy of the project o
 - POST - /usuarios/: To create a user.
 - PUT - /usuarios/:id/: To update a user.
 - DELETE - /usuarios/:id/: To delete a users.
+
+## Author ✒️
+
+ - Romano, Rodrigo Ruben - Information systems engineer.
