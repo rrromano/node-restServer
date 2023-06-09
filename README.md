@@ -1,18 +1,21 @@
+
+
+
 # Node Api - Rest Server
 
 _This is a basic nodeJs API project for raw operations, which allows you to manage users, products and categories._
 
-## Starting 🚀
+## Starting ▶️
 
 The following instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
 
-### Installation 🔧
+### Installation ⚙️
 
 - Run `npm install` to install all dependencies.
 - Run `npm start` to run the app locally.
 - You can find the project running on `localhost:8080`.
 
-### Testing ⚙️
+### Testing 🧪
 
 - Run `npm test` to execute automated tests.
 
