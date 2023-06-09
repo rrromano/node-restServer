@@ -1,6 +1,6 @@
 # Node Api - Rest Server
 
-_This is a basic API project for raw operations, which allows you to manage users, products and categories._
+_This is a basic nodeJs API project for raw operations, which allows you to manage users, products and categories._
 
 ## Starting 🚀
 
